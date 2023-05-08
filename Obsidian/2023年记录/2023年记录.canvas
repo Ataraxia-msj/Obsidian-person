@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"# 完成的目标\n\n## 妥善的完成工作室交接\n\n","id":"d9f29bdf811a52fa","x":-30,"y":-475,"width":480,"height":671,"color":"3"},
+		{"type":"text","text":"# 目前在做的事情\n\n## 准备考研\n\n## 少量的健身\n\n## 学习英语\n\n","id":"546a69ba93bf8518","x":-1335,"y":-304,"width":407,"height":500,"color":"6"},
+		{"type":"file","file":"2023年记录/过程记录.md","id":"d3d8c145ff517057","x":-816,"y":-475,"width":706,"height":671,"color":"4"},
+		{"type":"text","text":"# 想做的项目\n\n## 准备考研 \n\n- [ ] 熟练使用英语进行沟通交流\n\n- [ ] 体重达到150斤，体脂率保持在20%（体重达到150以上，体脂最好控制在20左右）\n\n## 可以自己完成一些电子DIY项目（可能很难实现了，因为考研时间比较紧张。但是具体还是看复习情况）\n\n## 陪小云去动物园\n\n## 可以带小云去其他城市\n","id":"0283ff6113870b39","x":-1830,"y":-475,"width":433,"height":671,"color":"5"},
+		{"type":"text","text":"# 2023年记录","id":"ba001d0761b5f375","x":-803,"y":-684,"width":306,"height":69}
+	],
+	"edges":[
+		{"id":"169ea9a6b414648f","fromNode":"ba001d0761b5f375","fromSide":"bottom","toNode":"0283ff6113870b39","toSide":"top"},
+		{"id":"2336a2de8a810d62","fromNode":"ba001d0761b5f375","fromSide":"bottom","toNode":"d9f29bdf811a52fa","toSide":"top"},
+		{"id":"aa0cfdd5c5bdccd5","fromNode":"ba001d0761b5f375","fromSide":"bottom","toNode":"d3d8c145ff517057","toSide":"top"},
+		{"id":"e77b81239ca4a0d7","fromNode":"0283ff6113870b39","fromSide":"right","toNode":"546a69ba93bf8518","toSide":"left"},
+		{"id":"0d6532ed6ba80847","fromNode":"546a69ba93bf8518","fromSide":"right","toNode":"d3d8c145ff517057","toSide":"left"}
+	]
+}

@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "a510cb7fecee240e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e61ae98cabca1cd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e14024d27f911c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8699ac75d7634c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfa86190d14da53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9275b89422e648ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9dfa05f0a9383b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "af993b08f235a46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d1ed83b6cd26ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c923e4bb6caa79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb894f4909aef309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76dd19f51be9f315",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ffb9997a6213fc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e61ae98cabca1cd",
+  "lastOpenFiles": [
+    "ANSYS/未命名.md",
+    "自动控制原理合集/控制工程学习笔记/傅里叶分析.md",
+    "电路/常用元器件.md",
+    "电路/入门电路.md",
+    "自动控制原理合集/摩擦电磁发电技术/纳米发电机.md",
+    "自动控制原理合集/摩擦电磁发电技术/摩擦纳米发电机.md",
+    "自动控制原理合集/控制工程学习笔记/欧拉公式.md",
+    "自动控制原理合集/控制工程学习笔记/自动控制原理.md",
+    "自动控制原理合集/控制工程学习笔记/私募培训.md",
+    "自动控制原理合集/控制工程学习笔记/拉普拉斯变换.md"
+  ]
+}

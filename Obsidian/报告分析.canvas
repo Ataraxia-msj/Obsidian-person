@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"file","file":"Photo/Pasted image 20230213110130.png","id":"b8c7202b844f077f","x":-413,"y":-297,"width":400,"height":335},
+		{"type":"file","file":"Photo/Pasted image 20230213110201.png","id":"8592762012a656bb","x":66,"y":-297,"width":400,"height":353},
+		{"type":"text","text":"# 整体类型","id":"a52c42f4ab864923","x":-59,"y":-676,"width":250,"height":60},
+		{"type":"text","text":"# 价值观和动机","id":"f167df9b2bb97130","x":466,"y":-676,"width":346,"height":60},
+		{"type":"text","text":"# MBIT分析","id":"1e40307e33c41f7a","x":952,"y":-1059,"width":250,"height":60},
+		{"type":"text","text":"# 性格特点","id":"96e862f3f4c3efd3","x":952,"y":-676,"width":250,"height":60},
+		{"type":"file","file":"Photo/Pasted image 20230213110353.png","id":"70b405a25f8af259","x":1151,"y":-481,"width":316,"height":1005},
+		{"type":"file","file":"Photo/Pasted image 20230213110253.png","id":"a5aafc2e22edcd8b","x":604,"y":-481,"width":416,"height":1075},
+		{"type":"file","file":"Photo/Pasted image 20230213110435.png","id":"37f487e08e0a3bc0","x":1547,"y":-481,"width":547,"height":1076},
+		{"type":"file","file":"Photo/Pasted image 20230213140005.png","id":"f09eaeaa02a2c69d","x":2158,"y":-481,"width":605,"height":1328},
+		{"type":"text","text":"# 成长建议","id":"b4830d27ae6c5efb","x":1696,"y":-676,"width":250,"height":60},
+		{"type":"file","file":"Photo/Pasted image 20230213140026.png","id":"4d40c91649032ee9","x":2808,"y":-481,"width":547,"height":1331},
+		{"type":"file","file":"Photo/Pasted image 20230213140105.png","id":"a12ef7ef236bc32e","x":3412,"y":-481,"width":353,"height":400},
+		{"type":"file","file":"Photo/Pasted image 20230213140119.png","id":"4dd32cf6f2d85f89","x":3841,"y":-481,"width":280,"height":400},
+		{"type":"text","text":"# 荣格八维解读性格优劣势","id":"25ddd903a1f8aa11","x":3196,"y":-747,"width":319,"height":101},
+		{"type":"text","text":"# 名人\n> 可以看一下他们的传记\n\n![[Pasted image 20230213140819.png]]","id":"9016ecba75a0b52d","x":322,"y":-2068,"width":420,"height":687},
+		{"type":"text","text":"# 行动想法","id":"f81c95e449b36c50","x":952,"y":-1381,"width":250,"height":60},
+		{"type":"file","file":"Photo/Pasted image 20230213142555.png","id":"e09d42a429f08bc5","x":1746,"y":-1939,"width":400,"height":319}
+	],
+	"edges":[
+		{"id":"6c499b6d47175610","fromNode":"1e40307e33c41f7a","fromSide":"bottom","toNode":"a52c42f4ab864923","toSide":"top"},
+		{"id":"53aab11176e2ea9e","fromNode":"a52c42f4ab864923","fromSide":"bottom","toNode":"b8c7202b844f077f","toSide":"top"},
+		{"id":"0e62864a2353b313","fromNode":"1e40307e33c41f7a","fromSide":"bottom","toNode":"f167df9b2bb97130","toSide":"top"},
+		{"id":"b0dec18f79ebb329","fromNode":"f167df9b2bb97130","fromSide":"bottom","toNode":"8592762012a656bb","toSide":"top"},
+		{"id":"2dd2962e1cd8be63","fromNode":"1e40307e33c41f7a","fromSide":"bottom","toNode":"96e862f3f4c3efd3","toSide":"top"},
+		{"id":"5663193c4ab49e35","fromNode":"96e862f3f4c3efd3","fromSide":"bottom","toNode":"a5aafc2e22edcd8b","toSide":"top","label":"优势"},
+		{"id":"46a13474df6c92c4","fromNode":"96e862f3f4c3efd3","fromSide":"bottom","toNode":"70b405a25f8af259","toSide":"top","label":"劣势"},
+		{"id":"2d9d5c9ec9698c70","fromNode":"1e40307e33c41f7a","fromSide":"bottom","toNode":"b4830d27ae6c5efb","toSide":"top"},
+		{"id":"9b123e6a136e244f","fromNode":"b4830d27ae6c5efb","fromSide":"bottom","toNode":"37f487e08e0a3bc0","toSide":"top"},
+		{"id":"76afb1622c8613f6","fromNode":"1e40307e33c41f7a","fromSide":"bottom","toNode":"25ddd903a1f8aa11","toSide":"top"},
+		{"id":"1e99b8560e322ee9","fromNode":"25ddd903a1f8aa11","fromSide":"bottom","toNode":"f09eaeaa02a2c69d","toSide":"top"},
+		{"id":"744ddba9d0d5740c","fromNode":"25ddd903a1f8aa11","fromSide":"bottom","toNode":"4d40c91649032ee9","toSide":"top"},
+		{"id":"10da2be857d7ee16","fromNode":"25ddd903a1f8aa11","fromSide":"bottom","toNode":"a12ef7ef236bc32e","toSide":"top"},
+		{"id":"2fdd8906661d00c4","fromNode":"25ddd903a1f8aa11","fromSide":"bottom","toNode":"4dd32cf6f2d85f89","toSide":"top"},
+		{"id":"77255fe3a9a77ef3","fromNode":"f81c95e449b36c50","fromSide":"top","toNode":"9016ecba75a0b52d","toSide":"bottom"},
+		{"id":"97f340fa2eadcb47","fromNode":"1e40307e33c41f7a","fromSide":"top","toNode":"f81c95e449b36c50","toSide":"bottom"},
+		{"id":"20cc0eca04ff0679","fromNode":"25ddd903a1f8aa11","fromSide":"left","toNode":"f81c95e449b36c50","toSide":"right"},
+		{"id":"858d667b7222699e","fromNode":"b4830d27ae6c5efb","fromSide":"left","toNode":"f81c95e449b36c50","toSide":"right"}
+	]
+}
