@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献笔记/未完成/数学常识.md",
-                "mode": "preview",
+                "file": "文献笔记/未完成/Git&Github.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af993b08f235a46e",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文献笔记/未完成/数学常识.md",
+                "file": "文献笔记/未完成/Git&Github.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文献笔记/未完成/数学常识.md",
+                "file": "文献笔记/未完成/Git&Github.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文献笔记/未完成/数学常识.md"
+                "file": "文献笔记/未完成/Git&Github.md"
               }
             }
           },
@@ -199,9 +200,10 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "b0c845cd9dfea032",
+  "active": "5047be32f3b2714c",
   "lastOpenFiles": [
     "文献笔记/未完成/数学常识.md",
+    "文献笔记/未完成/Git&Github.md",
     "文献笔记/未完成/欧拉公式.md",
     "文献笔记/未完成/拉普拉斯变换.md",
     "复数.md",
@@ -232,7 +234,6 @@
     "文献笔记/未完成/中医基础理论.md",
     "文献笔记/未完成/斯多葛主义.md",
     "文献笔记/未完成/心流.md",
-    "文献笔记/未完成/把时间当作朋友.md",
     "文献笔记/基本完成",
     "文献笔记/未完成",
     "2023年记录/2023年记录.canvas",
