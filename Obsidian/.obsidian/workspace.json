@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献笔记/未完成/Git&Github.md",
+                "file": "文献笔记/未完成/泰勒公式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "傅里叶变换",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af993b08f235a46e",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文献笔记/未完成/Git&Github.md",
+                "file": "文献笔记/未完成/泰勒公式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文献笔记/未完成/Git&Github.md",
+                "file": "文献笔记/未完成/泰勒公式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文献笔记/未完成/Git&Github.md"
+                "file": "文献笔记/未完成/泰勒公式.md"
               }
             }
           },
@@ -200,10 +199,10 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "5047be32f3b2714c",
+  "active": "0bfa86190d14da53",
   "lastOpenFiles": [
-    "文献笔记/未完成/数学常识.md",
     "文献笔记/未完成/Git&Github.md",
+    "文献笔记/未完成/数学常识.md",
     "文献笔记/未完成/欧拉公式.md",
     "文献笔记/未完成/拉普拉斯变换.md",
     "复数.md",
